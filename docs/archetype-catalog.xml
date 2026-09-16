@@ -9,6 +9,13 @@
         Run: mvn archetype:generate -DarchetypeGroupId=ai.platon.pulsar
         -DarchetypeArtifactId=browser4-plugin-archetype</description>
     </archetype>
+	
+	<archetype>
+      <groupId>com.yds.ai</groupId>
+	  <artifactId>ai-agent-scaffold-archetype</artifactId>
+      <version>1.0</version>
+      <description>ai-agent-scaffold-archetype</description>
+    </archetype>
 	<archetype>
       <groupId>com.yds.ai</groupId>
 	  <artifactId>ai-agent-scaffold-archetype</artifactId>
