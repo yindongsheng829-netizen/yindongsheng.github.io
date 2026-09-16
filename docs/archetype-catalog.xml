@@ -11,13 +11,13 @@
     </archetype>
 	
 	<archetype>
-      <groupId>com.yds.ai</groupId>
+      <groupId>cn.bugstack.ai</groupId>
 	  <artifactId>ai-agent-scaffold-archetype</artifactId>
       <version>1.0</version>
       <description>ai-agent-scaffold-archetype</description>
     </archetype>
 	<archetype>
-      <groupId>com.yds.ai</groupId>
+      <groupId>cn.bugstack.ai</groupId>
 	  <artifactId>ai-agent-scaffold-archetype</artifactId>
       <version>1.1</version>
       <description>ai-agent-scaffold-archetype</description>
